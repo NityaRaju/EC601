@@ -2,7 +2,8 @@
 
 Sprint 1 for Mini-Project1 : Analyzing the sentiment of twitter feeds
 
-User stories
+## User stories
+
 I, the advertiser, should be able to analyze a users tweets/retweets/comments to receive information about the products, goods and services that a person likes or dislikes to determine a targeted marketing scheme for that user. 
 
 I, the advertiser, should be able to classify a person based on their political preferences, marital status, age, education, interests etc by analyzing their twitter accounts to perform targeted marketing. 
@@ -22,7 +23,7 @@ I, the consumer, should be able to locate the best possible place to eat by anal
 I, the business owner/manager/product producer should be able to analyze tweets related to the products/brands/goods that I am selling in order to receive consumer feedback. 
 
 
-Minimum Viable Product
+## Minimum Viable Product
 An application which can perform natural language processing in order to read & summarize tweets and return certain features of the text. 
 
-Modular Design/Architecture
+## Modular Design/Architecture
