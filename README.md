@@ -27,5 +27,5 @@ I, the business owner/manager/product producer should be able to analyze tweets 
 An application which can perform natural language processing in order to read & summarize tweets and return certain features of the text. 
 
 ## Modular Design/Architecture
-![Screen Shot 2019-09-15 at 2.21.50 PM.png]
+![alt text]
 (https://github.com/NityaRaju/EC601/blob/Sprint/Screen%20Shot%202019-09-15%20at%202.21.50%20PM.png)
