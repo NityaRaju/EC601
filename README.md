@@ -28,4 +28,5 @@ An application which can perform natural language processing in order to read & 
 
 ## Modular Design/Architecture
 ![alt text]
-(https://github.com/NityaRaju/EC601/blob/Sprint/Screen%20Shot%202019-09-15%20at%202.21.50%20PM.png)
+<img width="720" alt="Screen Shot 2019-09-15 at 2 21 50 PM" src="https://user-images.githubusercontent.com/50961106/64925885-cc243e80-d7c4-11e9-959f-525c50106bf7.png">
+
