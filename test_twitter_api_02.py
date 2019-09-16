@@ -3,10 +3,7 @@ import json
 
 
 #Twitter API credentials
-consumer_key = "AlSQp3f1uWxA5pQiNP08375jx"
-consumer_secret = "FPb30QV8B2IYRGdbZqTLGsLhMSuMo5VOeMgSuXUPFHD2HOSQPs"
-access_key = "276619791-vnoEqnqkAJhXBEbVbv6UB7Vb3vYxM2use1tofna6"
-access_secret = "sIhPcPoiW0prsxN7lRjJLzYtPcKIsdhAr0TabfAf7Ys2o"
+
 
 
 # 传入认证信息，并创建API对象
