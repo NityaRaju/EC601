@@ -6,20 +6,20 @@ import json
 
 
 
-# 传入认证信息，并创建API对象
+# Authentification
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_key, access_secret)
 api = tweepy.API(auth)
 
-# 你想查找的关键字
+# key word to look for twitter
 query = "iphone 11"  
-# 语言代码（遵循ISO 639-1标准）
+# Language code (according to ISO 639-1 standard）here we look for twitter in English(en)
 language = "en"
 
-# 使用上面的参数，调用user_timeline函数
+# user_timeline function
 results = api.search(q=query, lang=language)
 
-# 遍历所拉取的全部微博
+# get twitters
 for tweet in results:  
    # 打印存在微博对象中的text字段
    print (tweet.user.screen_name,"Tweeted:",tweet.text)
