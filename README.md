@@ -29,6 +29,9 @@ An application which can perform natural language processing in order to read & 
 ## Modular Design/Architecture
 ![image](https://github.com/NityaRaju/EC601/blob/sprint_Ganghao/photos/structure.png)
 
+### **More detailed process:**<br>
+![image](https://github.com/NityaRaju/EC601/blob/sprint_Ganghao/photos/detailed%20.png)
+
 ## References
 - Tweepy api:http://docs.tweepy.org/en/v3.5.0/api.html
 
