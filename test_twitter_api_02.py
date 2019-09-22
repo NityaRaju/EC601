@@ -21,5 +21,5 @@ results = api.search(q=query, lang=language)
 
 # get twitters
 for tweet in results:  
-   # 打印存在微博对象中的text字段
+   # print text in twitter
    print (tweet.user.screen_name,"Tweeted:",tweet.text)
