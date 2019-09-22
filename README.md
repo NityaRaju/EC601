@@ -27,8 +27,7 @@ Sprint 1 for Mini-Project1 : Analyzing the sentiment of twitter feeds
 An application which can perform natural language processing in order to read & summarize tweets and return certain features of the text. 
 
 ## Modular Design/Architecture
-
-<img width="720" alt="Screen Shot 2019-09-15 at 2 21 50 PM" src="https://user-images.githubusercontent.com/50961106/64925885-cc243e80-d7c4-11e9-959f-525c50106bf7.png">
+![image](https://github.com/NityaRaju/EC601/blob/sprint_Ganghao/photos/structure.png)
 
 ## References
 - Tweepy api:http://docs.tweepy.org/en/v3.5.0/api.html
