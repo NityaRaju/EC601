@@ -41,6 +41,15 @@ Product review test case: Using certain products/brands/goods as a search query,
 Test Case #1- Using search term 'immigration'
 <img src="https://github.com/NityaRaju/EC601/blob/sprintNitya/API%20Test/testcase1.png">
 
+Test Case #2- Using search term 'narcos' (TV show)
+<img src="https://github.com/NityaRaju/EC601/blob/sprintNitya/API%20Test/testcase2.png">
+
+Test Case #3- Using search term 'McDonalds'
+<img src="https://github.com/NityaRaju/EC601/blob/sprintNitya/API%20Test/testcase3.png">
+
+Test Case #4- Using search term 'Chanel' (fashion brand)
+<img src="https://github.com/NityaRaju/EC601/blob/sprintNitya/API%20Test/testcase4.png">
+
 ### Lessons learned 
 ## What you liked doing?
 It was interesting to see all the various ways information from twitter could be summarized and accessed. Initially, it seemed like the main function of the API would be to obtain just raw tweets from twitter, but there was an abundance of information that could be obtained about every tweet, user, hashtag and profile. I liked learning how to use APIs because they are truly at the client-server intersection and it made me realize that there is much data from so many different companies that can be harnessed and used in various ways. It think its very beneficial to be able to access data from companies with large user bases such as Twitter, Uber, Facebook etc because so many additional applications can be built off from this data to improve efficiency and convenience for users in other areas. 
