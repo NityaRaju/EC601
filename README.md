@@ -31,7 +31,7 @@ I, the voter, should be able to gauge the sentiments towards a particular politi
 For all these use cases, An application which can perform natural language processing in order to read & summarize tweets and return certain features of the text would be the minimum viable product. 
 
 ## User Interface Design for main user story if required
-<img scr="https://github.com/NityaRaju/EC601/blob/Sprint/Screen%20Shot%202019-09-15%20at%202.21.50%20PM.png">
+<img src="https://github.com/NityaRaju/EC601/blob/Sprint/Screen%20Shot%202019-09-15%20at%202.21.50%20PM.png">
 
 ## System Design and how your design addresses your user stories
 In particular, if we focus on use cases 1-5, which are the use cases our system is set up for, then we see that the system design is an application/program which can accept the name of a product/service/establishment/trending topic/media source/ etc as a search query, and then use the Twitter API to return all the relevant tweets which contain that particular source term. (A number of additional search parameters may also be included to refine the search by date,popularity,location etc). Once the relevant tweets have been obtained from the Twitter API, we can use the Google Natural Language processing API to analyze these tweets and give us the sentiment. This way our users can find relevant reviews about the object they are interested in.
