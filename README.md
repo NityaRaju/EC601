@@ -38,8 +38,8 @@ Restaurant review test case: Using the name of a particular restaurant as a sear
 Product review test case: Using certain products/brands/goods as a search query, the business owner can apply any number of additional filters on the tweets (date, location, popularity etc) as he/she may see fit for the purposes of their analysis so they may receive customer feedback. 
 
 ## Result of testing (screen shots, etc.)
-
-
+Test Case #1- Using search term 'immigration'
+<img src="https://github.com/NityaRaju/EC601/blob/sprintNitya/API%20Test/testcase1.png">
 
 ### Lessons learned 
 ## What you liked doing?
