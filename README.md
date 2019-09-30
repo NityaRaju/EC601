@@ -1,5 +1,7 @@
 # EC601
 
-## main page for EC605 Mini-Projects
+## EC605 Mini-Projects
 
+
+Refer to branches sprint_Ganghao & sprintNitya for the complete project
 
