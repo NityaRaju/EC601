@@ -75,7 +75,7 @@ This is the analysis to 1000 tweets(enter the tweets one by one)
 ### Analysis:
 The 2 methods to analyze the same amount of tweets. The score and magnitude in  method which analyze the whole text at a time, both are much higher than that which analyze the tweets one by one. I think maybe it is related to Google Natural Language API inner work. The API may its own work principle. For example, it may  have the offset where there are some opposite attitudes or composition where there are similar attitudes.
 
-When I use one method to analyze the different amount of tweets. I test 100 tweets and 1000 tweets separately. With the amount of tweets increases, basically the score does not have any change, but the magnitude increase a lot. I think score represents this item quality, so it depends on items. It does not vary from user a lot. But, the magnitude represents the extent of people’s feelings, so that can vary from different people a lot. That’s why cause this result.
+When I use one method to analyze the different amount of tweets. I test 100 tweets and 1000 tweets separately. With the amount of tweets increases, basically the score does not have any change, but the magnitude increase a lot. I think score represents this item quality, so it depends on items. It does not vary from user a lot. But, the magnitude represents the extent of people’s feelings, so that can vary from different people a lot. That’s what causes this result.
 
 <br>
 
