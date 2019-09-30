@@ -30,8 +30,11 @@ Our system is comprised of a number of application programming interfaces which 
 ### Testing 
 ## Test document providing how each test case addresses the user stories
 News story test case: Using the search query ‘immigration’, we can specify the date from which we want to see the results (so that we can get only the latest stories), choose ‘recent’ tweets (if we want to get updates on a new breaking story), and additionally apply location and language filters as well to the tweets if the user would like. 
+
 Entertainment review test case: Using the name of a particular book/movie/TVshow etc as a search query, we can specify the release date of the media as the date from which we want to see results, choose ‘popular’ tweets (to get most legitimate or validated reviews), and additionally apply location and language filters as well to the tweets if the user would like. 
+
 Restaurant review test case: Using the name of a particular restaurant as a search query, and also specifying a geocode (latitude or longitude) to ensure only reviews relevant to the restaurant in question show up. Can choose ‘mixed’ tweets (to get both recent and popular tweets) and additionally apply location and language filters as well to the tweets if the user would like. 
+
 Product review test case: Using certain products/brands/goods as a search query, the business owner can apply any number of additional filters on the tweets (date, location, popularity etc) as he/she may see fit for the purposes of their analysis so they may receive customer feedback. 
 
 ## Result of testing (screen shots, etc.)
