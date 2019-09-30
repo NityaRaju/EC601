@@ -38,6 +38,9 @@ Restaurant review test case: Using the name of a particular restaurant as a sear
 Product review test case: Using certain products/brands/goods as a search query, the business owner can apply any number of additional filters on the tweets (date, location, popularity etc) as he/she may see fit for the purposes of their analysis so they may receive customer feedback. 
 
 ## Result of testing (screen shots, etc.)
+
+The program in this bramch is used to hit the Twitter API to return results according to our specified search parameters. All these tweets are then written to a text file, which can be sent to the Google Language API for further processing. The below screenshots are the tweets that have been written into the text file. 
+
 Test Case #1- Using search term 'immigration'
 <img src="https://github.com/NityaRaju/EC601/blob/sprintNitya/API%20Test/testcase1.png">
 
