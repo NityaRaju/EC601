@@ -50,7 +50,7 @@ The output of twitter get user comments is in .text type, so first to ensure the
 Besides, I find there are 2 methods to analyze the text. The one is to user function to analyze the whole text at a time. The other one is to analyze the tweets in the text one by one, and then calculate the  average score and magnitude.
 
 ### **More detailed process:**<br>
-![image](https://github.com/NityaRaju/EC601/blob/sprint_Ganghao/photos/detailed%20.png)
+![image](https://github.com/NityaRaju/EC601/blob/sprint_Ganghao/photos/structure01.png)
 
 <br>
 
